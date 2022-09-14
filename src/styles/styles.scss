@@ -1,0 +1,27 @@
+@import "fontawesome/all.css";
+@import "webfonts/inter/inter.css";
+@import "shared/variables";
+@import "shared/classes";
+@import "ui/ui-kit";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .cost-btn {
+    @apply text-accent bg-secondary rounded-3xl p-2;
+    height: 72px;
+    box-shadow: $boxShadowStd;
+
+    &:not(.non-hover) {
+      &:hover, &.selected {
+        @apply text-secondary bg-accent;
+
+        .quote-item__base {
+          @apply text-secondary;
+        }
+      }
+    }
+  }
+}

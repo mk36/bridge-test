@@ -1,0 +1,38 @@
+[
+  {
+    "name": "identify requirements",
+    "base": 6
+  },
+  {
+    "name": "request a quotation",
+    "base": 3
+  },
+  {
+    "name": "find products",
+    "base": 16
+  },
+  {
+    "name": "raise an order",
+    "base": 6
+  },
+  {
+    "name": "authorise sale",
+    "base": 21.55
+  },
+  {
+    "name": "pay provider",
+    "base": 13
+  },
+  {
+    "name": "deliver product",
+    "base": 4.30
+  },
+  {
+    "name": "invoice check",
+    "base": 6
+  },
+  {
+    "name": "place order",
+    "base": 6.50
+  }
+]
