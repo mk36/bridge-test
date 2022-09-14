@@ -14,11 +14,11 @@
     height: 72px;
     box-shadow: $boxShadowStd;
 
-    &:not(.non-hover) {
+    &:not(.no-hover) {
       &:hover, &.selected {
         @apply text-secondary bg-accent;
 
-        .quote-item__base {
+        .quote-items__base {
           @apply text-secondary;
         }
       }

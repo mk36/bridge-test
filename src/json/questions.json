@@ -1,0 +1,17 @@
+[
+  {
+    "name": "What is your approximate annual Spend on industrial items?",
+    "placeholder": 50000,
+    "value": ""
+  },
+  {
+    "name": "Approximately how many unique purchase orders are raised per annum for these items?",
+    "placeholder": 1300,
+    "value":  ""
+  },
+  {
+    "name": "Approximately how many supplier are you using for industrial supplies?",
+    "placeholder": 30,
+    "value":  ""
+  }
+]

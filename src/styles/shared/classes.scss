@@ -1,3 +1,8 @@
 .box-shadow-std {
   box-shadow: $boxShadowStd;
 }
+
+.disabled {
+  opacity: 0.4;
+  pointer-events: none;
+}

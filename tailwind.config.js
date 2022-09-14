@@ -8,6 +8,7 @@ module.exports = {
       accent: '#5F259F',
       alt: '#2B2B2B',
       danger: '#F04242',
+      grey: '#979797'
     },
     extend: {
       minHeight: (theme) => ({

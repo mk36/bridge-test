@@ -4,6 +4,7 @@ import router from './router'
 import store from './store'
 import Toast from "vue-toastification";
 import "vue-toastification/dist/index.css"
+import 'animate.css';
 
 import './styles/styles.scss'
 
